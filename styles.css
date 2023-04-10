@@ -1,0 +1,31 @@
+.basket__title{
+    display: flex;
+    justify-content: center;
+}
+.basket__item{
+    margin: 0 100px;
+    padding: 30px;
+    display: flex;
+    border: 1px solid black;
+}
+.basket__info{
+    margin: 30px;
+}
+.basket__coupon{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+#coupon__discount{
+    margin:  0 30px;
+    background-color: rgb(36, 32, 32);
+    color: white;
+    font-size: 20px;
+}
+.basket__text{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+
